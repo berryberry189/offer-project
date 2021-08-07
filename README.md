@@ -80,7 +80,7 @@
 ---
 
 ### 파일 관리
-AWS의 S3사용
+AWS의 S3, frontcloud 사용
 
 ---
 ### swagger
